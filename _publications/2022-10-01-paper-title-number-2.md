@@ -11,33 +11,33 @@ paperurl: 'http://neuliuhao.github.io/files/under_water.pdf'
 citation: 'Ru, J., Yu, H., Liu, H., Liu, J., Zhang, X., & Xu, H. (2022). A bounded near-bottom cruise trajectory planning algorithm for underwater vehicles. Journal of Marine Science and Engineering, 11(1), 7.'
 ---
 
-This paper introduces a Bounded Near-Bottom Cruise Trajectory Planning Algorithm for autonomous underwater vehicles (AUVs), focusing on the challenges of navigating near the ocean floor. The study addresses the need for efficient and safe trajectory planning, especially in complex underwater environments, which may include large-scale maps and terrain features like ridges. The paper presents a ridge-based A* (RA*) algorithm for AUVs that integrates safety constraints and a parallel computing framework to enhance performance.
+Background
 
-**Key Contributions:**
+===
 
-1. Trajectory Planning for AUVs: The study targets the near-bottom trajectory planning problem, emphasizing safety, efficiency, and adaptability in real-world underwater conditions.
+During my graduate studies, as the project leader, I led a team to design and implement a comprehensive autonomous navigation system for underwater robots, covering both hardware and software development. The project aimed to provide underwater robots with efficient terrain exploration and autonomous navigation capabilities to meet the complex demands of marine exploration and industrial applications.
 
-2. Safety Map Construction: The paper introduces a new safety map construction method to ensure that the AUV maintains a safe distance from underwater obstacles. Different types of safety maps (vertical, horizontal, spherical) are proposed for various scenarios.
+Challenges
 
-3. RA Algorithm*: The proposed algorithm, RA*, combines bounded trajectory planning with terrain considerations. It prioritizes traversal of ocean ridges to minimize detection and improve mission success.
+===
 
-4. Parallel Computing Framework: The algorithm includes a map compression and parallel computing strategy (MCPC) to handle large-scale maps efficiently. This approach segments maps for parallel processing, significantly improving computational speed.
+Underwater environments are highly unpredictable, with challenges such as currents, low visibility, and complex terrain. The navigation system needed to achieve high-precision path planning and real-time responses in dynamic conditions. Additionally, the lack of mature simulation tools for underwater robots required us to develop a custom simulation environment to validate algorithms, while ensuring efficient algorithm performance on hardware and effective on-site debugging.
 
-**Experimentation:**
+Contributions
 
-- The paper presents a variety of experiments, including:
+===
 
-- Map Generation: Using digital elevation models (DEM) to create terrain maps.
+- **Comprehensive Navigation System Design:** I led the design and implementation of a complete navigation system framework, integrating hardware components (sensors, actuators) with software (path planning and control algorithms) to ensure stability and real-time performance in underwater environments.
+- **Custom Simulation Environment and Algorithm Validation:** I developed a tailored simulation environment for underwater robots to test and optimize navigation algorithms, successfully validating their effectiveness. I also deployed these algorithms on the actual underwater robot platform, achieving seamless integration between simulation and real-world applications.
+- **On-Site Testing and Debugging:** I participated in multiple field tests of the underwater robot, conducting on-site debugging to quickly resolve navigation and control issues, ensuring reliable system performance in real underwater conditions.
+- **Competition Achievement:** Building on the project’s research outcomes, I led an undergraduate team to compete in an underwater robot competition, securing second place among over a dozen universities, demonstrating the system’s superior performance.
+- **Research Compilation and Publication:** I organized the team to compile our findings into a research paper, which was successfully published, detailing the navigation system’s design, implementation, and experimental results.
 
-- Safety Map Evaluation: Comparing the effectiveness of different safety map types (vertical, horizontal, and spherical).
+Results
 
-- RA Performance*: The RA* algorithm's performance is tested on large-scale maps (e.g., 5000x5000), showing its ability to efficiently plan trajectories while traversing ridge features.
+===
 
-- Computational Efficiency: The RA* algorithm with MCPC was compared to traditional A* and other methods, demonstrating its superior computational efficiency, especially in large-scale applications.
-
-**Conclusion:**
-
-The RA* algorithm provides an effective solution for trajectory planning in underwater environments, especially for AUVs performing near-bottom missions. The integration of safety distance constraints and parallel computation ensures that the algorithm is both efficient and practical for real-world applications.
+Through these efforts, I successfully enabled autonomous navigation and terrain exploration for underwater robots. The system performed exceptionally well in challenging underwater environments, significantly improving navigation accuracy and task efficiency. The research findings were published in ICRA2025, contributing valuable insights to the field of underwater robotics. The strong performance in the competition further validated the system’s practicality and competitiveness.
 
 Demonstration of the AUV Simulation System Developed by the Laboratory:
 

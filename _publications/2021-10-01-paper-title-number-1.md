@@ -12,18 +12,28 @@ paperurl: '../files/paper1.pdf'
 citation: 'Zhang, X., Liu, H., Xue, L., Li, X., Guo, W., Yu, S., ... & Xu, H. (2021, September). Multi-objective Collaborative Optimization Algorithm for Heterogeneous Cooperative Tasks Based on Conflict Resolution. In International Conference on Autonomous Unmanned Systems (pp. 2548-2557). Singapore: Springer Singapore.'
 status: 'published'
 ---
-This paper presents a novel algorithm for multi-objective task assignment in air–ground cooperative missions, focusing on the challenges of heterogeneous agents and task conflicts. The proposed algorithm, called Heterogeneous Conflict Resolution Multi-tasking Optimization (HCRMO), builds upon NSGA-III (Non-dominated Sorting Genetic Algorithm III) and incorporates two key modules:
 
-1. Conflict-Free Minimum Solution Space: This limits the search space for task-agent assignments, ensuring that solutions meet task requirements while avoiding agent conflicts. It improves the efficiency of agent allocation by eliminating redundant allocations.
+Background
 
-2. Task-Agent Conflict Resolution Module (TCCRM): This module quantifies potential conflicts between agents and tasks, helping to minimize the impact of conflicts in the task assignment process. It ensures that the tasks and agents are allocated in a way that avoids timing and spatial conflicts.
+===
 
-The algorithm optimizes for three objectives:
+This project aimed to develop a task allocation algorithm for a heterogeneous multi-robot system to support simulation testing for a partner robotics company. The robots, equipped with diverse materials, were required to fulfill task-specific material demands within designated time windows while addressing the complexities of multi-robot collaboration.
 
-- Total driving distance: Minimizing the total distance traveled by all agents, which directly reduces fuel consumption.
+Challenges
 
-- Undesirable distance: Avoiding undesirable areas on the map that agents must cross during tasks.
+===
 
-- Agent utilization: Ensuring that agents are used efficiently across tasks.
+The problem was inherently complex due to the heterogeneity of the robots, which varied in speed, material payloads, and task-specific time windows. These factors necessitated a tailored approach to ensure efficient task allocation and seamless multi-robot coordination.
 
-The paper demonstrates the effectiveness of the HCRMO algorithm through simulation experiments, comparing it with traditional NSGA-III and other methods. The results show that HCRMO significantly improves task allocation efficiency and convergence speed, making it six times faster than traditional approaches.
+Contributions
+
+===
+
+- We designed a novel task allocation method based on the NSGA-III algorithm, which effectively accounted for robot speed, time windows, and the diverse capabilities of individual robots. This approach optimized the selection of robots to collaboratively execute tasks, ensuring both efficiency and robustness.
+- The algorithm was fully implemented in MATLAB and rigorously tested within a simulation environment to validate its performance.
+
+Results
+
+===
+
+The developed task allocation system has been successfully deployed at the partner company, where it operates smoothly and reliably meets the specified task requirements. The algorithm has been refined, published, and is detailed in our publication.
