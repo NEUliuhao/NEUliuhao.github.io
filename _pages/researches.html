@@ -12,4 +12,6 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+<ul>{% for item in site.research %}
+    {{ item.title }}
+  {% endfor %}</ul>
