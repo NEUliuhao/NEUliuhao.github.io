@@ -13,15 +13,15 @@ date: 2021-10-03
 # status: 'published'
 ---
 
-Trajectory tracking effect:
-
+Trajectory tracking 
+======
 <video width="560" height="315" controls>
   <source src="../videos/car_2/视频1.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频2.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -31,3 +31,27 @@ Trajectory tracking effect:
 
 ![picture 2](../videos/car_2/图片5.png)  
 
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![picture 2](../videos/car_2/图片2.png)  
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![picture 2](../videos/car_2/图片3.png)  
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
