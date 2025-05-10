@@ -38,3 +38,10 @@ This paper introduces a Bounded Near-Bottom Cruise Trajectory Planning Algorithm
 **Conclusion:**
 
 The RA* algorithm provides an effective solution for trajectory planning in underwater environments, especially for AUVs performing near-bottom missions. The integration of safety distance constraints and parallel computation ensures that the algorithm is both efficient and practical for real-world applications.
+
+Demonstration of the AUV Simulation System Developed by the Laboratory:
+
+<!-- <video width="560" height="315" controls>
+  <source src="../videos/underwater/媒体5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
