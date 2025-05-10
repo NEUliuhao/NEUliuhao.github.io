@@ -2,11 +2,11 @@
 title: "In-Pipe Navigation Development Environment and A Smooth Path Planning Method on Pipeline Surface."
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-01-31-paper-title-number-5
 excerpt: 'This paper is about climbing robot simulation environment and planning algorithm.'
 date: 2025-01-31
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: '2025 IEEE International Conference on Robotics & Automation(ICRA2025)'
+paperurl: 'http://neuliuhao.github.io/files/ICRA2025.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 status: 'accepted'
 ---
