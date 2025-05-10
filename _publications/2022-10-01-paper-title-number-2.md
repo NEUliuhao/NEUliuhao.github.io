@@ -61,6 +61,22 @@ Demonstration of the AUV Simulation System Developed by the Laboratory:
 </video>
 
 <video width="560" height="315" controls>
+  <source src="../videos/underwater/5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/7.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
   <source src="../videos/underwater/目标检测.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+

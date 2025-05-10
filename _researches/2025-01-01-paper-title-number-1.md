@@ -30,16 +30,16 @@ video
 ======
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频8.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频8.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频7.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频7.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频9.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频9.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
