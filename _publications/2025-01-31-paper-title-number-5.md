@@ -11,7 +11,15 @@ paperurl: 'http://neuliuhao.github.io/files/ICRA2025.pdf'
 status: 'accepted'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a novel approach for autonomous in-pipe inspection robots, aiming to improve the navigation and path planning capabilities for pipeline inspection tasks. The main contributions of the paper are:
+
+- **In-Pipe Navigation Development Environment:** The paper presents an open-source, physically realistic environment for testing and developing navigation algorithms for in-pipe robots. This environment includes various pipeline models, a magnetic wheeled climbing robot model, and baseline algorithms for navigation. This is the first open-source simulation environment for climbing robot.
+
+- **Path Planning Method:** A new path planning approach is proposed that generates smooth and efficient paths by mapping the pipeline’s central axis onto a 2D manifold using the Frenet-Serret formulas. This method ensures that paths are continuous and feasible, avoiding the issues faced by previous graph-based methods that generated discrete paths with poor smoothness.
+
+- **Experimental Validation:** The method is tested both in simulated environments and in real-world scenarios, showing that it outperforms existing path planning methods in terms of smoothness, efficiency, and robustness. The paper also compares the proposed method with traditional algorithms like Dijkstra and demonstrates its superiority in various pipeline environments.
+
+The study contributes to the advancement of in-pipe robotics by providing both a platform for algorithm development and a reliable path planning method for navigating complex 3D surfaces. The paper concludes with future work focused on refining the path planning process and improving the accuracy of the central axis representation.
 
 ## Video
 
@@ -19,8 +27,27 @@ The contents above will be part of a list of publications, if the user clicks th
 
 <!-- 或者使用本地视频 -->
 
+The video submitted to ICRA2025:
+
 <video width="560" height="315" controls>
-  <source src="../videos/explore_1.mp4" type="video/mp4">
+  <source src="../videos/magbot/媒体1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Field experiment video:
+
+<video width="560" height="315" controls>
+  <source src="../videos/magbot/媒体2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/magbot/媒体3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/magbot/媒体4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
