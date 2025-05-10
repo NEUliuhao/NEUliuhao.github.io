@@ -5,11 +5,12 @@ category: conferences
 permalink: /publication/2021-10-01-paper-title-number-1
 excerpt: 'This paper is about multi-agent task allocation.'
 date: 2021-10-01
-venue: 'Journal 1'
+venue: 'Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021) '
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '../files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zhang, X., Liu, H., Xue, L., Li, X., Guo, W., Yu, S., ... & Xu, H. (2021, September). Multi-objective Collaborative Optimization Algorithm for Heterogeneous Cooperative Tasks Based on Conflict Resolution. In International Conference on Autonomous Unmanned Systems (pp. 2548-2557). Singapore: Springer Singapore.'
+status: 'published'
 ---
 This paper presents a novel algorithm for multi-objective task assignment in air–ground cooperative missions, focusing on the challenges of heterogeneous agents and task conflicts. The proposed algorithm, called Heterogeneous Conflict Resolution Multi-tasking Optimization (HCRMO), builds upon NSGA-III (Non-dominated Sorting Genetic Algorithm III) and incorporates two key modules:
 
