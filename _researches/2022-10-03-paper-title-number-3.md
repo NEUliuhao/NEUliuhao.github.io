@@ -32,3 +32,7 @@ Results
 ======
 Through collaborative efforts with the team, I made modest contributions to enhancing the path planning capabilities of the L2 autonomous driving system in intersection scenarios. The developed algorithm performed well in terms of real-time performance, safety, and smoothness, as validated through real-world road tests, providing some technical support to the team’s autonomous driving solutions.
 
+video
+======
+
+The video involves copyright issues, so it is inconvenient to release it.

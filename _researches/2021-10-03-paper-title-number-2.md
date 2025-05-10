@@ -13,4 +13,21 @@ date: 2021-10-03
 # status: 'published'
 ---
 
+Trajectory tracking effect:
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频1.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频2.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![picture 0](../videos/car_2/图片1.png)  
+
+![picture 1](../videos/car_2/图片4.png)  
+
+![picture 2](../videos/car_2/图片5.png)  
 

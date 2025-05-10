@@ -26,20 +26,21 @@ Contributions
 - The development of the robot's autonomous navigation framework has been initially completed, covering modules such as perception, planning, localization (completed by other team members) and control.
 - Through a large number of field experiments, the robot's autonomous exploration performance in complex environments has been verified, proving its stability and reliability.
 
+video
+======
 Trajectory tracking effect:
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频1.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频8.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="560" height="315" controls>
-  <source src="../videos/car_2/视频2.mkv" type="video/mp4">
+  <source src="../videos/car_2/视频7.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-![picture 0](../videos/car_2/图片1.png)  
-
-![picture 1](../videos/car_2/图片4.png)  
-
-![picture 2](../videos/car_2/图片5.png)  
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频9.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
