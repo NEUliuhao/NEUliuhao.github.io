@@ -1,6 +1,6 @@
 ---
 title: "talks"
-collection: researches
+# collection: researches
 category: conferences
 permalink: /research/2021-10-02-paper-title-number-1
 excerpt: 'This paper is about multi-agent task allocation.'
