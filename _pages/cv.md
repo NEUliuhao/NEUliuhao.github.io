@@ -11,53 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Control Science and Engineering**, Northeastern University, China, 2020.09 - 2023.07  
+  * Thesis: Heterogeneous multi-agent collaborative task allocation and path planning  
+* **B.S. in Measurement and Control Technology and Instruments**, Northeast Electric Power University, China, 2015.09 - 2019.07  
+  * Thesis: Comparison of image enhancement algorithms based on MATLAB  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer 2024: Academic Pages Collaborator**  
+  * Tsinghua University  
+  * Duties include: Developing climbing robot planning algorithm and simulation environment   
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Summer 2021: Research Assistant**  
+  * Sensetime  
+  * Duties included: Hybrid path planning for autonomous driving vehicles, real-time testing and validation  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Software:** MATLAB, Blender, Gazebo, Carsim, Prescan, Apollo  
+* **Programming:** C/C++, ROS, Python, PyTorch, Eigen, Nlopt, Ipopt, Mosek, OSQP  
+* **Algorithms:** Dijkstra, ARA*, JPS, Hybrid A*, MRA*, RRT, RRT*, Lattice Planner, PID, LQR, Stanley, Pure Pursuit  
+* **Engineering:** Design appropriate simulation systems and model robots, extract innovations from actual projects  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======

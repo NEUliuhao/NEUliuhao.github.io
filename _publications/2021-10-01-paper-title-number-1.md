@@ -2,7 +2,7 @@
 title: "Multi-objective Collaborative Optimization Algorithm for Heterogeneous Cooperative Tasks Based on Conflict Resolution"
 collection: publications
 category: conferences
-permalink: /publication/2021-10-01-paper-title-number-1
+permalink: /research/2021-10-01-paper-title-number-1
 excerpt: 'This paper is about multi-agent task allocation.'
 date: 2021-10-01
 venue: 'Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021) '
