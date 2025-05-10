@@ -14,26 +14,18 @@ status: 'published'
 ---
 
 Background
-
-===
-
+======
 This project aimed to develop a task allocation algorithm for a heterogeneous multi-robot system to support simulation testing for a partner robotics company. The robots, equipped with diverse materials, were required to fulfill task-specific material demands within designated time windows while addressing the complexities of multi-robot collaboration.
 
 Challenges
-
-===
-
+======
 The problem was inherently complex due to the heterogeneity of the robots, which varied in speed, material payloads, and task-specific time windows. These factors necessitated a tailored approach to ensure efficient task allocation and seamless multi-robot coordination.
 
 Contributions
-
-===
-
+======
 - We designed a novel task allocation method based on the NSGA-III algorithm, which effectively accounted for robot speed, time windows, and the diverse capabilities of individual robots. This approach optimized the selection of robots to collaboratively execute tasks, ensuring both efficiency and robustness.
 - The algorithm was fully implemented in MATLAB and rigorously tested within a simulation environment to validate its performance.
 
 Results
-
-===
-
+======
 The developed task allocation system has been successfully deployed at the partner company, where it operates smoothly and reliably meets the specified task requirements. The algorithm has been refined, published, and is detailed in our publication.

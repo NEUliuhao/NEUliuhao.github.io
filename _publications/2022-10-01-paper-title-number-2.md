@@ -12,21 +12,15 @@ citation: 'Ru, J., Yu, H., Liu, H., Liu, J., Zhang, X., & Xu, H. (2022). A bound
 ---
 
 Background
-
-===
-
+======
 During my graduate studies, as the project leader, I led a team to design and implement a comprehensive autonomous navigation system for underwater robots, covering both hardware and software development. The project aimed to provide underwater robots with efficient terrain exploration and autonomous navigation capabilities to meet the complex demands of marine exploration and industrial applications.
 
 Challenges
-
-===
-
+======
 Underwater environments are highly unpredictable, with challenges such as currents, low visibility, and complex terrain. The navigation system needed to achieve high-precision path planning and real-time responses in dynamic conditions. Additionally, the lack of mature simulation tools for underwater robots required us to develop a custom simulation environment to validate algorithms, while ensuring efficient algorithm performance on hardware and effective on-site debugging.
 
 Contributions
-
-===
-
+======
 - **Comprehensive Navigation System Design:** I led the design and implementation of a complete navigation system framework, integrating hardware components (sensors, actuators) with software (path planning and control algorithms) to ensure stability and real-time performance in underwater environments.
 - **Custom Simulation Environment and Algorithm Validation:** I developed a tailored simulation environment for underwater robots to test and optimize navigation algorithms, successfully validating their effectiveness. I also deployed these algorithms on the actual underwater robot platform, achieving seamless integration between simulation and real-world applications.
 - **On-Site Testing and Debugging:** I participated in multiple field tests of the underwater robot, conducting on-site debugging to quickly resolve navigation and control issues, ensuring reliable system performance in real underwater conditions.
@@ -34,9 +28,7 @@ Contributions
 - **Research Compilation and Publication:** I organized the team to compile our findings into a research paper, which was successfully published, detailing the navigation system’s design, implementation, and experimental results.
 
 Results
-
-===
-
+======
 Through these efforts, I successfully enabled autonomous navigation and terrain exploration for underwater robots. The system performed exceptionally well in challenging underwater environments, significantly improving navigation accuracy and task efficiency. The research findings were published in ICRA2025, contributing valuable insights to the field of underwater robotics. The strong performance in the competition further validated the system’s practicality and competitiveness.
 
 Demonstration of the AUV Simulation System Developed by the Laboratory:
