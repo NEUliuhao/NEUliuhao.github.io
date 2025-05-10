@@ -31,9 +31,36 @@ Results
 ======
 Through these efforts, I successfully enabled autonomous navigation and terrain exploration for underwater robots. The system performed exceptionally well in challenging underwater environments, significantly improving navigation accuracy and task efficiency. The research findings were published in ICRA2025, contributing valuable insights to the field of underwater robotics. The strong performance in the competition further validated the system’s practicality and competitiveness.
 
+video
+======
 Demonstration of the AUV Simulation System Developed by the Laboratory:
 
 <!-- <video width="560" height="315" controls>
   <source src="../videos/underwater/媒体5.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/underwater/目标检测.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

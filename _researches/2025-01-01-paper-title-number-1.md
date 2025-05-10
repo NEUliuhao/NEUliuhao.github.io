@@ -28,7 +28,6 @@ Contributions
 
 video
 ======
-Trajectory tracking effect:
 
 <video width="560" height="315" controls>
   <source src="../videos/car_2/视频8.mkv" type="video/mp4">
