@@ -11,17 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: 
-    url:   
+  # - title: 
+  #   url:   
 
-  - title: 
-    url:     
+  # - title: 
+  #   url:     
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: 
-    url: 
+  # - title: 
+  #   url: 
     
   - title: "CV"
     url: /cv/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
