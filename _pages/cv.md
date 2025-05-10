@@ -12,9 +12,17 @@ redirect_from:
 Education
 ======
 * **M.S. in Control Science and Engineering**, Northeastern University, China, 2020.09 - 2023.07  
+  * GPA: 6.13/7
   * Thesis: Heterogeneous multi-agent collaborative task allocation and path planning  
-* **B.S. in Measurement and Control Technology and Instruments**, Northeast Electric Power University, China, 2015.09 - 2019.07  
+* **B.S. in Measurement and Control Technology and Instruments**,  Northeast Electric Power University, China, 2015.09 - 2019.07  
+  * GPA: 5.26/7
   * Thesis: Comparison of image enhancement algorithms based on MATLAB  
+
+Language proficency
+======
+PTE: overall 73
+
+![picture 0](../images/pte.png)  
 
 Work experience
 ======
