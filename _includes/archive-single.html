@@ -55,7 +55,7 @@
     {% if post.images %}
       <div class="publication-images">
         {% for img in post.images limit:3 %}
-          <img src="{{ img }}" alt="Related image" style="max-width: 32%; margin: 0 12px 12px 0; display: inline-block; vertical-align: top; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);" />
+          <img src="{{ img }}" alt="Related image" style="height: 300px; width: auto; margin: 0 12px 12px 0; display: inline-block; vertical-align: top; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); object-fit: contain;" />
         {% endfor %}
       </div>
     {% endif %}
