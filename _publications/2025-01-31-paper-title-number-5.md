@@ -13,7 +13,7 @@ status: 'accepted'
 images:
   - ../images/homepage.png
   - /images/homepage.png
-  - ../images/liuhao.png
+
 ---
 
 Background
