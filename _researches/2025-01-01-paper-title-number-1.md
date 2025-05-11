@@ -4,7 +4,7 @@ title: "Autonomous Exploration in Buildings with Climbable Robots"
 category: conferences
 permalink: /research/2025-01-01-paper-title-number-1
 # excerpt: 'This paper is about multi-agent task allocation.'
-date: 2021-10-02
+date: 2025-01-01
 # venue: 'Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021) '
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: '../files/paper1.pdf'

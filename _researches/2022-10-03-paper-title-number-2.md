@@ -2,7 +2,7 @@
 title: "Autonomous driving vehicle passing through an intersection in an open scene"
 collection: researches
 category: conferences
-permalink: /research/2022-10-03-paper-title-number-3
+permalink: /research/2022-10-03-paper-title-number-2
 # excerpt: 'This paper is about multi-agent task allocation.'
 date: 2022-10-03
 # venue: 'Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021) '
