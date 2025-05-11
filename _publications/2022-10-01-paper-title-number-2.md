@@ -9,6 +9,10 @@ venue: 'Journal of Marine Science and Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://neuliuhao.github.io/files/under_water.pdf'
 citation: 'Ru, J., Yu, H., Liu, H., Liu, J., Zhang, X., & Xu, H. (2022). A bounded near-bottom cruise trajectory planning algorithm for underwater vehicles. Journal of Marine Science and Engineering, 11(1), 7.'
+images:
+  - /video/1.png
+  - /video/2.png
+
 ---
 
 Background
