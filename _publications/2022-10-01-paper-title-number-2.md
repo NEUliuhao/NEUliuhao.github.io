@@ -12,6 +12,7 @@ citation: 'Ru, J., Yu, H., Liu, H., Liu, J., Zhang, X., & Xu, H. (2022). A bound
 images:
   - /videos/underwater/1.png
   - /videos/underwater/2.png
+  - /videos/underwater/3.png
 
 ---
 

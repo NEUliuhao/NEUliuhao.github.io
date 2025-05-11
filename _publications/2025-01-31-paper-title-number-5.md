@@ -11,8 +11,9 @@ paperurl: 'http://neuliuhao.github.io/files/ICRA2025.pdf'
 status: 'accepted'
 
 images:
-  - ../images/homepage.png
-  - /images/homepage.png
+  - /videos/magbot/1.png
+  - /videos/magbot/2.png
+  - /videos/magbot/3.png
 
 ---
 
