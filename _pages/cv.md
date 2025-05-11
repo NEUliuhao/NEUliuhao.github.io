@@ -26,20 +26,20 @@ PTE: overall 73
 
 Work experience
 ======
-* **Summer 2024: Academic Pages Collaborator**  
+* **Summer 2023: Robot algorithm researcher**  
   * Tsinghua University  
-  * Duties include: Developing climbing robot planning algorithm and simulation environment   
+  * Duties included: Developing climbing robot planning algorithm and simulation environment for various robots in the lab.   
 
-* **Summer 2021: Research Assistant**  
+* **Winter 2021: Algorithm developer**  
   * Sensetime  
-  * Duties included: Hybrid path planning for autonomous driving vehicles, real-time testing and validation  
+  * Duties included: Participate in the development of L2 level autopilot system and conduct actual vehicle debugging.  
 
   
 Skills
 ======
 * **Software:** MATLAB, Blender, Gazebo, Carsim, Prescan, Apollo  
 * **Programming:** C/C++, ROS, Python, PyTorch, Eigen, Nlopt, Ipopt, Mosek, OSQP  
-* **Algorithms:** Dijkstra, ARA*, JPS, Hybrid A*, MRA*, RRT, RRT*, Lattice Planner, PID, LQR, Stanley, Pure Pursuit  
+* **Algorithms:** Dijkstra, ARA\*, JPS, Hybrid A\*, MRA\*, RRT, RRT\*, Lattice Planner, PID, LQR, Stanley, Pure Pursuit  
 * **Engineering:** Design appropriate simulation systems and model robots, extract innovations from actual projects  
 
 Publications
@@ -51,4 +51,8 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Often serve as a project leader in the laboratory, leading the team to develop software.
+
+* Led the team to participate in robot-related competitions and achieved excellent results.
+
+* As an engineer, he collaborated with other team members in the L2 autopilot team to achieve highway assisted driving
