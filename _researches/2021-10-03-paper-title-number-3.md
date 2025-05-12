@@ -31,7 +31,8 @@ Trajectory tracking
 
 ![picture 2](../videos/car_2/图片5.png)  
 
-
+First version of autonomous navigation
+======
 <video width="560" height="315" controls>
   <source src="../videos/car_2/视频3.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -53,5 +54,62 @@ Trajectory tracking
 
 <video width="560" height="315" controls>
   <source src="../videos/car_2/视频6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频13.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频21.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频22.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频23.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频11.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Road test 
+======
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频11.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频17.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频19.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频16.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频12.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="../videos/car_2/视频14.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
